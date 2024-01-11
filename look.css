@@ -1,0 +1,17 @@
+.container{
+    border: 3px solid lightgray ;
+    width: 500px;
+    margin: auto 400px;
+    border-radius: 10px;
+    padding:auto;
+    height: 1000px;
+
+}
+.image{
+    
+    width: 100%;
+    height: 100%;
+}
+.center{
+    align-items: center;
+}
